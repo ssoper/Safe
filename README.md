@@ -1,6 +1,9 @@
 <p align="center">
   <img src="http://tidwall.github.io/Safe/head.png" width="424" height="155">
   <br>
+  [![Swift 2.2](https://img.shields.io/badge/Swift-2.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
+  [![Platforms OS X | iOS | Linux](https://img.shields.io/badge/Platforms-OS%20X%20%7C%20iOS%20%7C%20Linux%20-lightgray.svg?style=flat)](https://developer.apple.com/swift/)
+  
   <a href="https://tidwall.github.io/Safe/test-results.txt"><img src="https://tidwall.github.io/Safe/build.png" alt="" width="93" height="20" border="0" /></a>
   <a href="https://developer.apple.com/swift/"><img src="https://tidwall.github.io/Safe/swift2.png" alt="" width="65" height="20" border="0" /></a>
   <a href="https://tidwall.github.io/Safe/docs/"><img src="https://tidwall.github.io/Safe/docs.png?check" alt="" width="65" height="20" border="0" /></a>
